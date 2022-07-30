@@ -1,2 +1,2 @@
 # SQL
-acá se encuentra mis materiales de estudio de ISPC de SQL
+Hola, aca se encuentra todo lo relacionado a SQL 
